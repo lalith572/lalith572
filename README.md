@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋 Greetings, It's Lalith</h1>
 <h3></h3>A Computer Science student and Passionate Developer</h3>
-<img align="right" width="470" height="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" width="400" height="270" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **DSA & Back-end development**
 
