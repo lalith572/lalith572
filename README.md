@@ -14,7 +14,7 @@
 
 - 👨‍💻 [Portfolio](#)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalith572&label=Profile%20views&color=0e75b6&style=flat" alt="lalith572" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalith572&label=Profile%20views&color=0e75b6&style=flat" alt="lalith572" /> </p>-->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -43,7 +43,7 @@
 <img width="50" height="50" src="https://img.icons8.com/color/50/pycharm.png" alt="pycharm"/></p>
 
 
-[![Lalith' Leetcode Stats](https://leetcard.jacoblin.cool/Lalith_572?ext=contest&theme=dark)](https://leetcode.com/Lalith_572)
+<!--[![Lalith' Leetcode Stats](https://leetcard.jacoblin.cool/Lalith_572?ext=contest&theme=dark)](https://leetcode.com/Lalith_572)-->
 
 ![Lalith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalith572&theme=dark&show_icons=true&&hide=issues,contribs)
 
