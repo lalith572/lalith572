@@ -12,7 +12,7 @@
   
 - 📄 [Resume](https://drive.google.com/file/d/10W-qWrOZr3NSS2EYl38Ly_FncVXWvu9s/view?usp=drive_link)
 
-- 👨‍💻 [Portfolio](https://lalith572.github.io)
+- 👨‍💻 [Portfolio](https://lalith572.web.app/)
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalith572&label=Profile%20views&color=0e75b6&style=flat" alt="lalith572" /> </p>-->
 
