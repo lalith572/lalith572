@@ -1,20 +1,20 @@
 <h1 align="center">Hi👋 Greetings, It's Lalith</h1>
-<h3></h3>A Computer Science student and Passionate Developer</h3>
+<h3></h3>A Computer Science Engineer and Passionate Developer</h3>
 <img align="right" width="400" height="270" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🌱 I’m currently learning **DSA & Back-end development**
+- 🌱 I’m currently learning **New Technologies**
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on **Web development & Freelancing**
 
 - 🤝 I’m looking for help with **placements in product based company**
 
-- 💬 Ask me about **front-end development**
+- 💬 Ask me about **Full Stack Java Development**
   
 - 📄 [Resume](https://drive.google.com/file/d/10W-qWrOZr3NSS2EYl38Ly_FncVXWvu9s/view?usp=drive_link)
 
 - 👨‍💻 [Portfolio](https://lalith572.web.app/)
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalith572&label=Profile%20views&color=0e75b6&style=flat" alt="lalith572" /> </p>-->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalith572&label=Profile%20views&color=0e75b6&style=flat" alt="lalith572" /> </p> -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -43,7 +43,7 @@
 <img width="50" height="50" src="https://img.icons8.com/color/50/pycharm.png" alt="pycharm"/></p>
 
 
-<!--[![Lalith' Leetcode Stats](https://leetcard.jacoblin.cool/Lalith_572?ext=contest&theme=dark)](https://leetcode.com/Lalith_572)-->
+[![Lalith' Leetcode Stats](https://leetcard.jacoblin.cool/Lalith_572?ext=contest&theme=dark)](https://leetcode.com/Lalith_572)
 
 ![Lalith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalith572&theme=dark&show_icons=true&&hide=issues,contribs)
 
